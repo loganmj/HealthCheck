@@ -41,7 +41,7 @@ jobs:
 
     - name: Build Angular client
       working-directory: ./healthcheck.client
-      run: ng build --prod
+      run: ng build --configuration production
 
     - name: Restore .NET dependencies
       working-directory: ./healthcheck.Server
