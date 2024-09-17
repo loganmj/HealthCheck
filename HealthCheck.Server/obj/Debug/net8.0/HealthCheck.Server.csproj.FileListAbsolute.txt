@@ -33,3 +33,4 @@ C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\refin
 C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\HealthCheck.Server.pdb
 C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\HealthCheck.Server.genruntimeconfig.cache
 C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\ref\HealthCheck.Server.dll
+C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\HealthCheck.Server.sourcelink.json
