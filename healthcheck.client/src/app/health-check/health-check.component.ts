@@ -9,7 +9,7 @@ import { tap, catchError, of } from 'rxjs';
 @Component({
   selector: 'app-health-check',
   templateUrl: './health-check.component.html',
-  styleUrl: './health-check.component.css'
+  styleUrl: './health-check.component.scss'
 })
 export class HealthCheckComponent implements OnInit {
 
