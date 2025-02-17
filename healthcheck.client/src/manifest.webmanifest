@@ -1,0 +1,22 @@
+{
+  "name": "HealthCheck",
+  "short_name": "HealthCheck",
+  "icons": [
+    {
+      "src": "/assets/icons/healthCheck.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/assets/icons/healthCheck192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#2196f3",
+  "display": "Standalone",
+  "theme_color": "#2196f3",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/"
+}
