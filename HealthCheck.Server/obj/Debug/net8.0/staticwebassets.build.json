@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W1tlkEuoO9t1OsLNNL80zX4NJe8z/CO0F4U390NL+hA=",
+  "Hash": "FncYlzBNbkTzSwhQDm5H4rI0eijRv57lwdPbjf5jF6Q=",
   "Source": "HealthCheck.Server",
   "BasePath": "_content/HealthCheck.Server",
   "Mode": "Default",
@@ -19,5 +19,6 @@
     }
   ],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

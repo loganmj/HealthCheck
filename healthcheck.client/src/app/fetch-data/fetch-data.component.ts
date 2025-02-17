@@ -10,9 +10,10 @@ interface WeatherForecast {
 }
 
 @Component({
-  selector: 'app-fetch-data',
-  templateUrl: './fetch-data.component.html',
-  styleUrl: './fetch-data.component.scss'
+    selector: 'app-fetch-data',
+    templateUrl: './fetch-data.component.html',
+    styleUrl: './fetch-data.component.scss',
+    standalone: false
 })
 
 export class FetchDataComponent {

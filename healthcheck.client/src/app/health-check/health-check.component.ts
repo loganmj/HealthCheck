@@ -7,9 +7,10 @@ import { tap, catchError, of } from 'rxjs';
  * A component used to perform HealthChecks against the server.
  */ 
 @Component({
-  selector: 'app-health-check',
-  templateUrl: './health-check.component.html',
-  styleUrl: './health-check.component.scss'
+    selector: 'app-health-check',
+    templateUrl: './health-check.component.html',
+    styleUrl: './health-check.component.scss',
+    standalone: false
 })
 export class HealthCheckComponent implements OnInit {
 

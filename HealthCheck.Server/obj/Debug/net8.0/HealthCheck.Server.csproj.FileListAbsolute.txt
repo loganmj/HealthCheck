@@ -34,3 +34,7 @@ C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\Healt
 C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\HealthCheck.Server.genruntimeconfig.cache
 C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\ref\HealthCheck.Server.dll
 C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\HealthCheck.Server.sourcelink.json
+C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\bin\Debug\net8.0\HealthCheck.Server.staticwebassets.endpoints.json
+C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\staticwebassets\msbuild.HealthCheck.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mjlogan\Workspace\HealthCheck\HealthCheck.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
