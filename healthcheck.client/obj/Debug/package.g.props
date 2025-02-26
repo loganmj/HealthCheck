@@ -29,8 +29,8 @@
     <PackageJsonDependenciesTslib Condition="$(PackageJsonDependenciesTslib) == ''">^2.3.0</PackageJsonDependenciesTslib>
     <PackageJsonDependenciesZoneJs Condition="$(PackageJsonDependenciesZoneJs) == ''">~0.15.0</PackageJsonDependenciesZoneJs>
     <PackageJsonDevdependenciesAngularDevkitBuildAngular Condition="$(PackageJsonDevdependenciesAngularDevkitBuildAngular) == ''">^19.1.7</PackageJsonDevdependenciesAngularDevkitBuildAngular>
-    <PackageJsonDevdependenciesAngularEslintEslintPlugin Condition="$(PackageJsonDevdependenciesAngularEslintEslintPlugin) == ''">^18.3.1</PackageJsonDevdependenciesAngularEslintEslintPlugin>
-    <PackageJsonDevdependenciesAngularEslintSchematics Condition="$(PackageJsonDevdependenciesAngularEslintSchematics) == ''">^18.3.1</PackageJsonDevdependenciesAngularEslintSchematics>
+    <PackageJsonDevdependenciesAngularEslintEslintPlugin Condition="$(PackageJsonDevdependenciesAngularEslintEslintPlugin) == ''">^19.1.0</PackageJsonDevdependenciesAngularEslintEslintPlugin>
+    <PackageJsonDevdependenciesAngularEslintSchematics Condition="$(PackageJsonDevdependenciesAngularEslintSchematics) == ''">^19.1.0</PackageJsonDevdependenciesAngularEslintSchematics>
     <PackageJsonDevdependenciesAngularCli Condition="$(PackageJsonDevdependenciesAngularCli) == ''">^19.1.7</PackageJsonDevdependenciesAngularCli>
     <PackageJsonDevdependenciesAngularCompilerCli Condition="$(PackageJsonDevdependenciesAngularCompilerCli) == ''">^19.1.6</PackageJsonDevdependenciesAngularCompilerCli>
     <PackageJsonDevdependenciesTypesJasmine Condition="$(PackageJsonDevdependenciesTypesJasmine) == ''">~5.1.0</PackageJsonDevdependenciesTypesJasmine>
